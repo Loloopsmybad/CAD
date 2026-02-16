@@ -6,9 +6,9 @@
 <xacro:include filename="$(find (Unsaved)_description)/urdf/(Unsaved).gazebo" />
 <link name="base_link">
   <inertial>
-    <origin xyz="0.003981162475958396 -0.18675729683389627 -0.06529999808960356" rpy="0 0 0"/>
-    <mass value="78.14019627190524"/>
-    <inertia ixx="6.09128" iyy="3.626928" izz="4.786914" ixy="-0.021869" iyz="-0.081953" ixz="-0.04883"/>
+    <origin xyz="-0.1283566097000591 -0.00106461515978344 0.19125025666324613" rpy="0 0 0"/>
+    <mass value="28.612650776803523"/>
+    <inertia ixx="0.74269" iyy="2.0089" izz="1.633022" ixy="0.005445" iyz="-0.004649" ixz="0.255133"/>
   </inertial>
   <visual>
     <origin xyz="0 0 0" rpy="0 0 0"/>
